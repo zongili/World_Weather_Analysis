@@ -1,4 +1,9 @@
+#ignore config.py which had API
 config.py
+
+#Also ignore the following files
+API_practice.jpynb
+random_numbers.jpynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
